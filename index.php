@@ -8,5 +8,9 @@
 <body>
     <h1>Hello Worl !</h1>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse culpa similique dolor et eveniet aliquam quam delectus facilis rem, ipsam adipisci distinctio architecto? Qui, provident consequatur. At, eveniet? Quibusdam, voluptas.</p>
+    <ul>
+        <li>maliki</li>
+        <li>masrandi</li>
+    </ul>
 </body>
 </html>
